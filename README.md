@@ -24,7 +24,7 @@ Clean Currents is our company providing a solution to cleaning the waterways, pa
 
 ## Semester 2
 
-**1. Report Review for sections : **
+**1. Report Review for sections :**
 
 **- Section 1 : Executive summary ;** 1.1 Our Business 
 **- Section 3 : Markets and competitors ;** 3.1 Market segments, 3.2 Competing products , 3.3 SWOT analysis and 3.4 The product
