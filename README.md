@@ -24,14 +24,14 @@ Clean Currents is our company providing a solution to cleaning the waterways, pa
 
 ## Semester 2
 
-1. Report Review for sections : 
+**1. Report Review for sections : **
 
 **- Section 1 : Executive summary ;** 1.1 Our Business 
 **- Section 3 : Markets and competitors ;** 3.1 Market segments, 3.2 Competing products , 3.3 SWOT analysis and 3.4 The product
 **- Section 5 : Operations ;** 5.1 Location, 5.2 Facilities
 **- Section 6 : Financial forecasts ;** 6.1 Sales forecast , 6.2 Cashflow forecast
 
-2. Report Writing sections :
+**2. Report Writing sections :**
 
 **- Section 4 : Management (All) ;** 4.1 Project Management, 4.2 People Management skills, 4.3 Commitment.
 Made the table for peoples role allocation and expertise. 
@@ -47,8 +47,10 @@ Made the excel sheet for :
 - Operating Costs
 - Salaries
 
-3. Presentation section for Project Management
-Note : Bill of Materials was provided by Nemish 
+Note : Bill of Materials was provided by Nemish
+
+**3. Presentation section for Project Management**
+ 
 
 Created the Break-even point graph 
 
