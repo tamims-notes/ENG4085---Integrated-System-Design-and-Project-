@@ -51,7 +51,7 @@ Note : Bill of Materials was provided by Nemish
 
 **3. Presentation section for Project Management**
  
-
+Created and annoteated the graphs for Revenue , Cost of Goods + Operating Expenses + Net profit
 Created the Break-even point graph 
 
 **- Section 7 Financial requirements**
